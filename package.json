@@ -1,0 +1,26 @@
+{
+  "name": "sql-database",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000Q\u0000L\u0000-\u0000d\u0000a\u0000t\u0000a\u0000b\u0000a\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asbolomb/SQL-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asbolomb/SQL-database/issues"
+  },
+  "homepage": "https://github.com/Asbolomb/SQL-database#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0",
+    "yargs": "^17.4.1"
+  }
+}
